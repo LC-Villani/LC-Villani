@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey there! 👋
+
+My name is Lucas, and I'm an Software Engineer Studant and a current fascinated on AI and Python!
+
+
+- 🌱 I’m currently learning more about AI and how it works to expand my knowledge base.
+- 👯 I’m looking to collaborate on projects that envolve AI so I could show and improve my skills!
 
 <!--
 **LC-Villani/LC-Villani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
