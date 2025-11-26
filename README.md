@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-My name is Lucas, and I'm an Software Engineer Studant and a current fascinated on AI and Python!
+My name is Lucas, Software Engineering student exploring the frontiers of AI and Python development. Always learning, always coding!
 
 
 - 🌱 I’m currently learning more about AI and how it works to expand my knowledge base.
