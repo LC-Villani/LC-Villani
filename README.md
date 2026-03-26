@@ -1,6 +1,6 @@
 # Hi, I'm Lucas Villani 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&label=Profile%20views\&color=0e75b6\&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=LC-Villani\&label=Profile%20views\&color=0e75b6\&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![AI](https://img.shields.io/badge/Focus-Artificial%20Intelligence-6f42c1?style=flat)
 ![Backend](https://img.shields.io/badge/Focus-Backend-0a66c2?style=flat)
@@ -104,8 +104,8 @@ A set of backend-focused projects built to strengthen my understanding of APIs, 
 
 ## Connect with me
 
-* GitHub: [https://www.linkedin.com/in/lucas-villani1007/](https://github.com/)
-* LinkedIn: [https://www.linkedin.com/in/lucas-villani1007/](https://www.linkedin.com/)
+* GitHub: [https://www.linkedin.com/in/lucas-villani1007/](https://github.com/LC-Villani)
+* LinkedIn: [https://www.linkedin.com/in/lucas-villani1007/]([https://www.linkedin.com/in/lucas-villani1007/)
 * Email: **villani.clucas@gmail.com**
 
 <p>
