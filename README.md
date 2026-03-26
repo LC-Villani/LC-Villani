@@ -104,7 +104,7 @@ A set of backend-focused projects built to strengthen my understanding of APIs, 
 
 ## Connect with me
 
-* GitHub: [https://www.linkedin.com/in/lucas-villani1007/](https://github.com/LC-Villani)
+* GitHub: [https://github.com/LC-Villani](https://github.com/LC-Villani)
 * LinkedIn: [https://www.linkedin.com/in/lucas-villani1007/](https://www.linkedin.com/in/lucas-villani1007/)
 * Email: **villani.clucas@gmail.com**
 
