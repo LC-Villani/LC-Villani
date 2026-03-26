@@ -8,12 +8,12 @@
 ![FIAP](https://img.shields.io/badge/University-FIAP-CC0000?style=flat)
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LC-Villani&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LC-Villani&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LC-Villani&theme=tokyonight&hide_border=true" />
 </div>
 
 Software Engineering student focused on **Artificial Intelligence, Python, backend development, and practical LAG/LLM applications**.
@@ -109,13 +109,13 @@ A set of backend-focused projects built to strengthen my understanding of APIs, 
 * Email: **villani.clucas@gmail.com**
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/LC-Villani">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/Lucas Villani/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:villani.clucas@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
