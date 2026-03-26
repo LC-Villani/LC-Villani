@@ -8,7 +8,6 @@
 ![FIAP](https://img.shields.io/badge/University-FIAP-CC0000?style=flat)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LC-Villani&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LC-Villani&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
