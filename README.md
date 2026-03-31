@@ -71,22 +71,6 @@ This project allowed me to explore multimodal AI workflows and practical assista
 
 ---
 
-### Customer Feedback Classifier
-
-A Python-based system for organizing and classifying customer feedback, transforming unstructured text into useful categories for analysis.
-
-This project strengthened my understanding of NLP workflows, data handling, and how AI can support decision-making through structured information.
-
-**Main topics:** Python, scikit-learn, Pandas, text classification, NLP
-
----
-
-### Backend and API Experiments
-
-A set of backend-focused projects built to strengthen my understanding of APIs, service structure, data flow, and how software engineering supports modern AI applications.
-
-**Main topics:** Flask, FastAPI, REST APIs, backend fundamentals, software architecture
-
 ## What I’m currently working on
 
 * Improving my backend foundation for AI products
