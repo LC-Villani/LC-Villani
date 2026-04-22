@@ -58,39 +58,43 @@ I enjoy building systems that connect **real user problems** with **useful AI so
 
 ## Featured projects
 
-### PassaBola AI Assistant
+### RAG HR Assistant (LangChain + LLM)
 
-AI-focused chatbot developed for a university project designed to support a platform centered on **women's football**.
+AI agent developed to answer questions based on internal company policies using a **RAG (Retrieval-Augmented Generation)** pipeline.
 
-This project helped me explore how AI can be applied to a real product context, improving user interaction and information access inside a broader digital solution.
+Includes document ingestion (PDF), semantic search with embeddings, vector storage (ChromaDB), and LLM-based response generation with **reranking for improved accuracy**.
 
-**Main topics:** Python, chatbot logic, NLP, product thinking, real project delivery
+**Main topics:** Python, LangChain, RAG, embeddings, semantic search, LLM (Gemini), Streamlit
+
+
+---
+
+### Discord AI Assistant (Gemini API)
+
+Modular assistant built with **Python** and integrated with **Google Gemini API** for intelligent interactions and task automation.
+
+Designed to handle user queries, generate content, and support moderation using LLM capabilities.
+
+**Main topics:** Python, LLM integration, automation, APIs, assistant logic
+
 
 ---
 
-### Discord Assistant with Gemini API
+### PassaBola AI Chatbot
 
-Assistant built with **Python** and integrated with **Google Gemini API** for both **text interaction** and **image analysis**.
+Chatbot developed for a university project focused on **women's football**, providing user support and information through natural language interaction.
 
-This project allowed me to explore multimodal AI workflows and practical assistant behavior in a functional environment.
+Built with a backend API using Flask and basic NLP techniques for intent understanding.
 
-**Main topics:** Python, Gemini API, automation, AI integration, multimodal interaction
-
----
+**Main topics:** Python, Flask, NLP, chatbot development, REST API
 
 ## What I’m currently working on
 
-* Improving my backend foundation for AI products
-* Building stronger real-world projects with Python and LLMs
-* Studying how to make AI solutions more production-ready
-* Strengthening my profile for future international opportunities
-
-## What I value as a developer
-
-* Clear reasoning before implementation
-* Building things that are actually useful
-* Learning fast through practice
-* Good structure, consistency, and constant improvement
+* Building and improving **AI agents using LLMs (OpenAI, Gemini)**
+* Developing **RAG pipelines** with embeddings, retrieval, and response generation
+* Strengthening backend skills for **API integration and scalable AI systems**
+* Exploring **LangChain and reasoning-based workflows (ReAct)**
+* Learning how to make AI solutions more **production-ready and reliable**
 
 ## Connect with me
 
