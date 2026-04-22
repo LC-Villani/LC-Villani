@@ -7,13 +7,17 @@
 ![LLMs](https://img.shields.io/badge/Focus-LLMs-111827?style=flat)
 ![FIAP](https://img.shields.io/badge/University-FIAP-CC0000?style=flat)
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LC-Villani&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LC-Villani&theme=tokyonight&hide_border=true" />
 </div>
+
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LC-Villani&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+
 
 Software Engineering student focused on **Artificial Intelligence, Python, backend development, and practical LAG/LLM applications**.
 
