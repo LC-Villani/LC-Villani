@@ -13,11 +13,6 @@
 </div>
 
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LC-Villani&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-
 
 Software Engineering student focused on **Artificial Intelligence, Python, backend development, and practical LAG/LLM applications**.
 
@@ -53,6 +48,11 @@ I enjoy building systems that connect **real user problems** with **useful AI so
 * **Backend:** Flask, FastAPI, REST APIs
 * **Tools:** Git, GitHub, Power BI, Docker
 * **Currently improving:** cloud fundamentals, production-ready backend architecture, applied AI systems
+
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LC-Villani&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ## Featured projects
 
