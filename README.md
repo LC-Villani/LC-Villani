@@ -43,11 +43,12 @@ I enjoy building systems that connect **real user problems** with **useful AI so
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-* **Languages:** Python, SQL, Java
-* **AI / Data:** Pandas, scikit-learn, NLP, LLM applications, prompt engineering
-* **Backend:** Flask, FastAPI, REST APIs
-* **Tools:** Git, GitHub, Power BI, Docker
-* **Currently improving:** cloud fundamentals, production-ready backend architecture, applied AI systems
+* **Languages:** Python, JavaScript, C/C++, Java  
+* **AI / Data:** LLM applications (OpenAI, Google Gemini), LangChain, RAG (embeddings, semantic search), prompt engineering, Pandas, scikit-learn (NLP concepts)  
+* **Backend:** Flask, REST APIs, API integration, JSON & MySQL  
+* **Tools:** Git, GitHub, N8N, Make, Streamlit, VS Code, Cursor  
+* **Software Engineering:** Modular architecture (Hexagonal), API design, error handling & resilience  
+* **Currently improving:** advanced RAG pipelines, AI agents with reasoning (ReAct), cloud fundamentals (AWS/Azure), production-ready AI systems  
 
 
 <div align="center">
