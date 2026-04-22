@@ -14,17 +14,18 @@
 
 
 
-Software Engineering student focused on **Artificial Intelligence, Python, backend development, and practical LAG/LLM applications**.
+Software Engineering student focused on **Artificial Intelligence, Python, backend development, and practical RAG/LLM applications**.
 
 I enjoy building systems that connect **real user problems** with **useful AI solutions**, especially through Python, APIs, NLP, automation, and intelligent workflows.
 
 ## About me
 
 * 🎓 Software Engineering student at **FIAP**
-* 🤖 Focused on **AI, Python, backend systems, and LLM applications**
-* 🧠 Interested in **NLP, intelligent assistants, automation, and applied machine learning**
-* 🌍 Building my profile with the goal of growing into an **international career in AI**
-* 📚 Always learning by combining **theory + real projects**
+* 🤖 Focused on **AI, Python, backend systems, and LLM-based applications**
+* 🧠 Interested in **NLP, intelligent agents, automation, and applied machine learning**
+* ⚙️ Building projects with **LangChain, APIs, and retrieval-based systems (RAG)**
+* 🌍 Aiming to grow into an **international career in AI**
+* 📚 Learning by combining **theory + real-world projects**
 
 ## Tech stack
 
